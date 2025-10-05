@@ -1,4 +1,4 @@
-## Main Skills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,pytorch,sklearn,opencv,arduino,raspberrypi,git,github,py,java,c,cs,cpp,css,html,js,go,rust,vscode,visualstudio,eclipse,unity,unreal,powershell,windows,mint,debian)](https://skillicons.dev)
 
@@ -9,4 +9,5 @@
     </a>
 </div>
 
+My Resume
 > <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing" download>Download my resume</a>
