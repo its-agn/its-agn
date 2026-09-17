@@ -19,9 +19,6 @@ Localization, motion control, simulation, and computer vision for UCF's VEX U ro
 **Cooperative Localization**
 Building an anchorless localization system using UWB ranging, IMUs, and sensor fusion.
 
-**FRED**
-Developing a field-ready search-and-rescue drone using autonomous navigation and thermal vision.
-
 **AI / ML**
 Experimenting with computer vision, ML systems, synthetic data, and model deployment.
 
