@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="52" viewBox="0 0 160 52" role="img" aria-label="Resume">
+  <rect width="160" height="52" rx="16" fill="#21262D" stroke="#3D444D"/>
+  <g transform="translate(29 15)" fill="none" stroke="#F0F6FC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 1h8l4 4v15H5z"/>
+    <path d="M13 1v5h4M8 11h6M8 15h6"/>
+  </g>
+  <text x="61" y="33" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" font-weight="600">Resume</text>
+</svg>

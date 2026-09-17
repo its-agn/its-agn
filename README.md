@@ -1,9 +1,19 @@
-# Alex Nardi
+<h1 align="center">Alex Nardi</h1>
 
-**Computer Science @ UCF** · Software Engineering · Robotics · AI/ML
+<p align="center">
+  <b>Computer Science @ UCF</b><br>
+  Software Engineering · Robotics · Computer Vision · AI/ML
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexander-nardi/)
-[![Resume](https://img.shields.io/badge/Resume-View-30363d?style=flat-square\&logo=readme\&logoColor=white)](./AlexanderNardiResume.pdf)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-nardi/">
+    <img src="./assets/linkedin.svg" height="52" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/its-agn/its-agn/main/assets/AlexanderNardiResume.pdf">
+    <img src="./assets/resume.svg" height="52" alt="Resume">
+  </a>
+</p>
 
 ---
 
